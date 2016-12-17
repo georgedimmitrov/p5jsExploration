@@ -1,0 +1,15 @@
+{
+  "name": "fromatoz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "lite": "lite-server -port 8080",
+    "start": "npm run lite"
+  },
+  "author": "Georgi Dimitrov",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
